@@ -1,0 +1,29 @@
+# CIBA RAG Assessment - Dependencies
+# ===================================
+# All packages pre-installed in this Replit
+
+# Core API
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+
+# LangChain ecosystem
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+
+# Vector store
+chromadb==0.4.22
+
+# Embeddings (alternative to OpenAI)
+sentence-transformers==2.2.2
+
+# OpenAI
+openai==1.6.1
+
+# Document processing
+tiktoken==0.5.2
+
+# Utilities
+python-dotenv==1.0.0
+httpx==0.26.0

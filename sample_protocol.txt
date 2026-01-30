@@ -1,0 +1,158 @@
+# Type 2 Diabetes Management Protocol
+## Primary Care Clinical Guidelines
+
+### 1. Initial Assessment
+
+When a patient presents with suspected Type 2 Diabetes, the following assessments should be completed within the first consultation:
+
+**Diagnostic Criteria:**
+- HbA1c ≥ 48 mmol/mol (6.5%) on two separate occasions
+- Fasting plasma glucose ≥ 7.0 mmol/L on two separate occasions
+- Random plasma glucose ≥ 11.1 mmol/L with symptoms
+
+**Initial Blood Tests:**
+- HbA1c (baseline for monitoring)
+- Fasting lipid profile (total cholesterol, HDL, LDL, triglycerides)
+- Renal function (eGFR, ACR)
+- Liver function tests
+- Thyroid function (TSH)
+
+**Physical Examination:**
+- Blood pressure (target < 140/80 mmHg, or < 130/80 if kidney disease present)
+- BMI and waist circumference
+- Foot examination (pulses, sensation, skin integrity)
+- Eye screening referral within 3 months of diagnosis
+
+### 2. Lifestyle Interventions
+
+All patients should receive structured education about:
+
+**Dietary Advice:**
+- Reduce total calorie intake if overweight (target 5-10% weight loss)
+- Limit refined carbohydrates and sugary drinks
+- Increase fibre intake (vegetables, legumes, whole grains)
+- Mediterranean-style diet has strongest evidence base
+- Refer to dietitian for personalised meal planning
+
+**Physical Activity:**
+- Minimum 150 minutes moderate-intensity activity per week
+- Include resistance training 2-3 times per week
+- Reduce sedentary time; break up prolonged sitting
+- Tailor recommendations to patient's mobility and comorbidities
+
+**Smoking Cessation:**
+- Offer smoking cessation support at every contact
+- Refer to NHS Stop Smoking Service
+- Consider varenicline or NRT as appropriate
+
+### 3. Pharmacological Management
+
+**First-Line Therapy:**
+Metformin remains first-line pharmacological treatment:
+- Start 500mg once daily with food
+- Titrate gradually over 2-4 weeks to minimise GI side effects
+- Target dose: 1g twice daily (or maximum tolerated)
+- Modified-release formulation if GI intolerance persists
+- Contraindicated if eGFR < 30 mL/min/1.73m²
+
+**Second-Line Options (if HbA1c target not met after 3 months):**
+Consider adding one of the following based on patient characteristics:
+
+| Drug Class | Consider If | Avoid If |
+|------------|-------------|----------|
+| SGLT2 inhibitor | Heart failure, CKD, high CV risk | Recurrent UTIs, DKA risk |
+| GLP-1 agonist | Obesity (BMI > 35), high CV risk | Pancreatitis history |
+| DPP-4 inhibitor | Elderly, renal impairment | Heart failure (saxagliptin) |
+| Sulfonylurea | Cost consideration, rapid response needed | Hypoglycaemia risk, weight gain concern |
+| Pioglitazone | NAFLD, insulin resistance | Heart failure, bladder cancer history |
+
+**SGLT2 Inhibitors - Additional Benefits:**
+- Cardiovascular protection (empagliflozin, dapagliflozin, canagliflozin)
+- Renal protection independent of glucose control
+- Heart failure hospitalisation reduction
+- Modest weight loss (2-3 kg typical)
+
+**Warning Signs Requiring Urgent Review:**
+- Symptoms of DKA (nausea, vomiting, abdominal pain, confusion) - can occur even with normal glucose in SGLT2 users
+- Fournier's gangrene (rare but serious) - perineal pain, tenderness, erythema
+- Severe hypoglycaemia if on sulfonylureas
+
+### 4. Monitoring Schedule
+
+**Every 3 months (until stable):**
+- HbA1c measurement
+- Review of home glucose monitoring (if applicable)
+- Medication tolerance and adherence
+- Hypoglycaemia frequency
+
+**Every 6 months (when stable):**
+- HbA1c measurement
+- Blood pressure
+- Weight and BMI
+- Foot check
+
+**Annually:**
+- Full lipid profile
+- Renal function (eGFR, ACR)
+- Eye screening (retinal photography)
+- Comprehensive foot examination
+- Review of cardiovascular risk (QRISK3)
+- Depression screening (PHQ-2 minimum)
+- Sexual health discussion
+- Immunisation review (flu, pneumococcal)
+
+### 5. Target Goals
+
+| Parameter | Standard Target | Intensive Target (if safe) |
+|-----------|-----------------|---------------------------|
+| HbA1c | ≤ 53 mmol/mol (7.0%) | ≤ 48 mmol/mol (6.5%) |
+| Blood Pressure | < 140/80 mmHg | < 130/80 mmHg |
+| LDL Cholesterol | < 2.0 mmol/L | < 1.4 mmol/L (if very high CV risk) |
+
+**Individualise targets based on:**
+- Age and life expectancy
+- Duration of diabetes
+- Hypoglycaemia risk and awareness
+- Comorbidities and frailty
+- Patient preferences
+
+### 6. When to Refer to Specialist
+
+**Urgent Referral (same day):**
+- Suspected DKA or HHS
+- Foot ulcer with signs of infection
+- Sudden vision loss
+
+**Routine Referral to Diabetes Specialist:**
+- HbA1c persistently > 75 mmol/mol despite dual therapy
+- Complex insulin initiation required
+- Recurrent hypoglycaemia
+- Pregnancy planning (pre-conception counselling)
+- Significant renal impairment (eGFR < 30)
+
+**Multidisciplinary Team Referrals:**
+- Dietitian: All newly diagnosed, weight management
+- Podiatry: High-risk feet, neuropathy, PAD
+- Psychology: Diabetes distress, needle phobia
+- Retinal screening: Within 3 months of diagnosis, then annually
+
+### 7. Patient Communication
+
+**Key Messages for Patients:**
+1. Type 2 diabetes is a progressive condition but can be well-managed
+2. Lifestyle changes are as important as medication
+3. Regular monitoring helps catch problems early
+4. Know the warning signs of high and low blood sugar
+5. Attend all screening appointments (eyes, feet, kidneys)
+
+**Self-Management Support:**
+- Provide access to structured education (DESMOND, X-PERT)
+- Ensure patient has clear sick day rules
+- Discuss driving regulations if applicable
+- Signpost to Diabetes UK resources
+
+---
+Document Version: 2.1
+Last Updated: November 2024
+Review Date: November 2025
+Author: Primary Care Diabetes Clinical Network

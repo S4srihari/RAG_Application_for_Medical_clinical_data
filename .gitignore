@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# ChromaDB local storage
+chroma_db/
+
+# Misc
+.DS_Store
+*.log
+
+# Keep reference solution hidden from candidate
+# REFERENCE_SOLUTION.py
